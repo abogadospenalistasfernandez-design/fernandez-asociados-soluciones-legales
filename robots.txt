@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abogadospenalistasfernandez-design.github.io/fernandez-asociados-soluciones-legales/sitemap.xml
